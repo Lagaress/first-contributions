@@ -1,6 +1,7 @@
 
 # Contributors
 - [Brian Ahaneku](https://github.com/brianahaneku)
+- [Franco Zeta](https://github.com/francozeta)
 - [Hamza Rehan](https://github.com/HamzaRehan4)
 - [Rayed Saeed](https://github.com/Rayed14)
 - [Wazir Shehryar Ali](https://github.com/vzirshehryar)
